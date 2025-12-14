@@ -3,7 +3,7 @@ MARS MUSIC PLAYER: APLIKASI MUSIC PLAYER BERBASIS PYTHON (TKINTER)
 Oleh kelompok 11: 
 1. Ariba Raihana Alyashila 
 2. Shindy Yusnidha Azzahra 
-3. Retno Eka Sari**
+3. Retno Eka Sari
 
 ## Deskripsi Proyek
 Aplikasi pemutar musik desktop sederhana yang dikembangkan menggunakan Python dan library Tkinter. Aplikasi ini mengimplementasikan konsep Struktur Data seperti Doubly Linked List untuk mengelola antrian lagu (Playlist/Queue) dan menerapkan manajemen user (Login Admin/User) untuk otentikasi fitur.
